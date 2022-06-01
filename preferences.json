@@ -1,5 +1,7 @@
-Любовь и голуби
-нет любимого сериала
-голубцы
-зима
-Франция
+{
+favorite_movie:"Любовь и голуби",
+favorite_TV_series: "нет любимого сериала",
+favorite_food: "голубцы",
+favorite_time_of_the_year: "зима",
+the_country_you_would_like_to_visit:"Франция"
+}
